@@ -44,16 +44,12 @@ This project creates a simple **screensaver-style animation** using Python's bui
 
 ### ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square\&logo=python\&logoColor=ffdd54)
 
-**Paradigm**: Multi-paradigm (Imperative, Object-Oriented, Educational)
+**Paradigm**: Multi-paradigm
 
 **Why this implementation**:
-Python’s built-in `turtle` module is an excellent entry point for beginners learning how **objects**, **functions**, and **stateful graphics** interact. The project also highlights:
-
 * `turtle.Turtle()` as an OOP object
 * Use of **helper functions** to encapsulate drawing logic
 * Integration of **random** module for generative design
-
-**Best for**: Visual learning, creative coding, beginner OOP concepts
 
 ---
 
